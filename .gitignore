@@ -1,0 +1,11 @@
+# Local-only artefacts for this one-line make.fun entry.
+# Nothing in this list is part of the graded program.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+out/
+output/
+.DS_Store
+*.log
+.bundle/
+.venv/
